@@ -219,6 +219,30 @@
 	}
 }
 
+/* --- disqus css -- */
+#disqus_thread {
+  color: #ffffff;
+  border-style: 3px solid;
+  border-color: #cccccc;
+  padding: 60px;
+  width: 700px; }
+
+#dsq-content #dsq-comments .dsq-comment-body {
+  color: #fff;
+  border-color: #800080;
+  border-style: 3px solid; }
+
+.dsq-reaction-body {
+  color: #fff; }
+
+.dsq-reaction-header cite, .dsq-reaction-header span {
+  color: #ccc; }
+
+.dsq-reaction-retweets {
+  color: #ccc; }
+
+/*--- end disqus css --*/
+
 .sharing {
 	ul {
 		list-style: none;
