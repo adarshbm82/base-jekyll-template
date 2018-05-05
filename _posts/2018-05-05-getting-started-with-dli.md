@@ -1,5 +1,5 @@
 ---
-date:
+date: 2018-05-05 08:47:04
 title: Getting Started with DLI
 categories:
 description:
