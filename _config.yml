@@ -1,16 +1,16 @@
 # ----
 # Site
 
-title: Base
+title: DLI Knowledge Base
 url: "https://orange-ape.cloudvent.net/"
 baseurl:
 google_analytics_key:
-disqus_shortname:
+disqus_shortname: dlicloud
 newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Test Run.
 author:
   name:
   email:
